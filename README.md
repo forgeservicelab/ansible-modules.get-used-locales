@@ -7,7 +7,7 @@ Useful to ensure system locales are generated.
 License
 -------
 
-GPLv3
+MIT
 
 Author Information
 ------------------
